@@ -23,7 +23,7 @@ namespace ConsoleApplication5
            
 
             // Validacion de altura minima
-            Console.WriteLine("Ingrese su altura en cm: ");
+            Console.WriteLine("Ingrese su altura en solo cm: ");
 
             alturacm = Convert.ToInt32(Console.ReadLine());
 
